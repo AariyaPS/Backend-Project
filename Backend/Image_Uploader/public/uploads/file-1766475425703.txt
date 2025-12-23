@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Our Industries</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="section-header">
+        <div class="label">
+            <span class="label-line"></span>
+            <span class="label-text">Industries</span>
+        </div>
+
+        <h1 class="title">
+            We Serve All <span class="gradient-text">Industries</span>
+        </h1>
+
+        <p class="subtitle">
+            We stay on top of our industry by being experts in yours.
+        </p>
+    </div>
+
+    <!---Cards Section-->
+    <div class="cards-container">
+        <!--Ecommerce  -->
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\Ecommerce.png" alt="" />
+            <div class="overlay">
+                <h2>Ecommerce</h2>
+                <p>
+                    Ecommerce Marketplace Users &amp; Sellers Application Development
+                </p>
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\travel.jpg" alt="" />
+            <div class="overlay">
+                <h2>Travel</h2>
+                <p>
+                    In today’s fast-paced world, where travel has become an integral
+                    part of both personal and professional lifestyles.
+                </p>
+                <!-- <button class="arrow-btn">→</button> -->
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\Doctor.png" alt="" />
+            <div class="overlay">
+                <h2>Healthcare Solution</h2>
+                <p>We stay on top of our industry by being experts in yours.</p>
+                <!-- <button class="arrow-btn">→</button> -->
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\Fitness.png" alt="" />
+            <div class="overlay">
+                <h2>Fitness</h2>
+                <p>We stay on top of our industry by being experts in yours.</p>
+                <!-- <button class="arrow-btn">→</button> -->
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\Media.jpg" alt="" />
+            <div class="overlay">
+                <h2>Media &amp; Entertainment</h2>
+                <p>We stay on top of our industry by being experts in yours.</p>
+                <!-- <button class="arrow-btn">→</button> -->
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\education.jpg" alt="" />
+            <div class="overlay">
+                <h2>Education &amp; eLearning</h2>
+                <p>We stay on top of our industry by being experts in yours.</p>
+                <!-- <button class="arrow-btn">→</button> -->
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\Hotel.png" alt="" />
+            <div class="overlay">
+                <h2>Hotel and Restaurant</h2>
+                <p>We stay on top of our industry by being experts in yours.</p>
+                <!-- <button class="arrow-btn">→</button> -->
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\Banking.jpeg" alt="" />
+            <div class="overlay">
+                <h2>Banking and Finance</h2>
+                <p>We stay on top of our industry by being experts in yours.</p>
+                <!-- <button class="arrow-btn">→</button> -->
+            </div>
+        </div>
+
+        <div class="card">
+            <img src="C:\Users\lenovo\OneDrive\Desktop\Marketing Website\Dating.png" alt="" />
+            <div class="overlay">
+                <h2>Dating</h2>
+                <p>We stay on top of our industry by being experts in yours.</p>
+                <!-- <button class="arrow-btn">→</button> -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
