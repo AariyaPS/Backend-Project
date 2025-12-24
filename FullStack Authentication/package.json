@@ -1,0 +1,28 @@
+{
+  "name": "fullstack_authentication",
+  "version": "1.0.0",
+  "description": "Fullstack Authentication app",
+  "homepage": "https://github.com/AariyaPS/Backend-Project#readme",
+  "bugs": {
+    "url": "https://github.com/AariyaPS/Backend-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AariyaPS/Backend-Project.git"
+  },
+  "license": "ISC",
+  "author": "Ankita Priya",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cloudinary": "^2.8.0",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2",
+    "multer": "^2.0.2"
+  }
+}
