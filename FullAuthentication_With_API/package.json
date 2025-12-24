@@ -1,0 +1,30 @@
+{
+  "name": "fullstack_authentication_with_api",
+  "version": "1.0.0",
+  "description": "Contact API wit full Authentication",
+  "homepage": "https://github.com/AariyaPS/Backend-Project#readme",
+  "bugs": {
+    "url": "https://github.com/AariyaPS/Backend-Project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AariyaPS/Backend-Project.git"
+  },
+  "license": "ISC",
+  "author": "Ankita Priya",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "dotignore": "^0.1.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.0.2"
+  }
+}
